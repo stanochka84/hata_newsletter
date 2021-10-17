@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/RobotoSlab-Bold.woff2') format('woff2'),
+        url('../fonts/RobotoSlab-Bold.woff') format('woff'),
+        url('../fonts/RobotoSlab-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+.body{
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: Arial;
+}
+.wrapper-left-right{
+    width: 20%;
+    background-color: #dcdce5;
+}
+.wrapper{
+    width: 600px;
+}
+.wrapper-medium{
+    background-color: #ededf5;
+}
+.logo-phone{
+    width: 100%;
+}
+.logo {
+    padding-left: 30px;
+}
+.phone{
+    width: 44%;
+    padding-left: 10px;
+}
+.phone a{
+    color: #25252c;
+    text-decoration: none;
+}
+.phone p{
+    margin: 0;
+    padding-top: 3px;
+}
+.img{
+    width: 220px;
+    height: 57px;
+    display: inline-block;
+}
+.number{
+    padding-right: 2px;
+}
+.te_xt{
+    padding-left: 30px;
+}
+.button a{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.but{
+    height: 100px;
+    padding-bottom: 30px;
+}
+.button{
+    padding-left: 30px;
+}
+.location{
+    background-color: #d7d7e1;
+    padding-bottom: 33px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.loc{
+    padding-top: 35px;  
+}
+.kotedg{
+    width: 30%;
+}
+.hata{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.hata_img{
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.description{
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    font-family: "Arial";
+}
+.orange{
+    width: 100%;
+    border-collapse: collapse;
+}
+.bord{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+}
+.foot{
+    height: 50px;
+}
+.footer a{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 25px;
+    padding-left: 25px;
+    border-radius: 25px;
+    text-decoration: none;
+}
+.footer{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.blue{
+    background-color: #08081a;
+    border-collapse: collapse;
+}
+.socialki{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.socialki a{
+    padding-right: 5px;
+}
+.blue-dark{
+    background-color: #000014;
+}
+.site{
+    font-size: 11px; 
+    line-height: 18px; 
+    color: #fd8300;
+    text-decoration: none;
+}
+.fot{
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
